@@ -1,0 +1,27 @@
+Principales caracteristicas
+
+-Orientado a Objetos
+-Interpretado
+-Dinamicamente tipado
+-Expresivo
+
+
+Sus Librerias son llamadas gemas (gems)
+y puden ser descargadas directamente desde su sitio oficial
+o muchas desde github
+https://rubygems.org/
+
+
+Frameworks web en Ruby
+1- Rails
+2- Padrino 
+3- Sinatra
+4- Cuba
+
+Comunidades de Ruby
+- Rails Girls
+- RubyPeru
+- RubyConf
+- RailsConf
+- RubyConf
+- Ruby Hero Awards
