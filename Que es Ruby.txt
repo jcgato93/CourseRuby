@@ -1,0 +1,26 @@
+El creador de Ruby es Yukihiro “Matz” Matsumoto. Éste es un lenguaje de programación que fue hecho con la mezcla de otros lenguajes: Perl, Ada, Lisp, Eiffel y Smaltalk.
+Todas las partes tomadas de estos lenguajes logran hacer de Ruby un lenguaje de programación que incorpora programación imperativa y programación funcional.
+
+La liberación oficial del lenguaje fue en el año 1995 y desde entonces se ha rodeado de una gran comunidad que ha ido haciendo crecer las librerías, llamadas gemas, ya que este lenguaje es completamente gratis no solamente al usarlo, sino también en su distribución, puedes copiarlo y usarlo libremente.
+
+Estos son algunos aspectos relevantes de este lenguaje:
+
+Ruby es un lenguaje de programación orientado a objetos. Todo es un objeto. Existen muchos lenguajes en los que los números por ejemplo, no pueden ser objetos, en Ruby lo son.
+
+Influenciado por el lenguaje de programación Smaltalk, Ruby permite que se le puedan colocar variables de instancia a todos los tipos de datos que tiene, incluidos los números.
+
+Todas las partes más importantes de Ruby pueden ser modificadas y redefinidas libremente. Es un lenguaje muy flexible.
+
+Tiene un fácil manejos de errores con su famoso manejo de excepciones, similar a Java y Python.
+
+Se puede utilizar Ruby desde C con mucha facilidad y de forma simple.
+
+Ruby es utilizado mayormente en GNU/Linux, pero es completamente posible que corra en UNIX, Mac OS, Windows.
+
+Los bloques en Ruby están inspirados en lenguajes de programación funcionales, especialmente en Lisp. No es necesario crear un método para cada iteración, con los bloques, un método puede hacer el número de iteraciones que necesites.
+
+En Ruby no es necesario declarar variables, existen convenciones simples para determinar el alcance de las variables:
+
+var puede ser una variable local.
+@var es una variable de instancia.
+$var es una variable global.
