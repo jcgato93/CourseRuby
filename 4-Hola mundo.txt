@@ -1,0 +1,23 @@
+si solo se quiere probar el lenguaje 
+puedes utilizar el siguiente enlace
+https://repl.it/
+
+aqui podras practicar sin necesidad de tener 
+instalado ruby
+
+
+para iniciar por el cmd la terminal de ruby
+
+>irb
+
+Para imprimir un  texto por consola
+
+>puts "Hola mundo!"
+
+
+tambien podriamos tener esto en 
+un archivo externo .rb y ejecutarlo
+desde la ruta del archivo
+con el comando 
+
+>ruby [archivo].rb
