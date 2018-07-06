@@ -1,0 +1,13 @@
+https://rubyinstaller.org/downloads/
+
+1- especificar idioma
+2- especificar ruta de destino
+3- marcar 
+     [x]Add ruby executables to your PATH
+     [x]Associate .rb and .rbw files with this Ruby installation
+
+
+si ya se encuentra instalado 
+podemos ver que version es con el comando
+
+ruby -v
